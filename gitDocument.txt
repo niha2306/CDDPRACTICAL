@@ -1,0 +1,71 @@
+->Git is a version control system for tracking changes in computer files,It is a distributed version control tool used for source code management.
+->Github is a git repository hosting services that provides a web based GUI and it is a remote server.
+->Git is used to track the changes in the source code and allows multiple developers to work together.
+->Git can effectively communicate with gitHub and hundreds of projects are implemented and available.
+Git:-
+-------
+->It is software tool.
+->It is installed on local system.
+->It is used to manage different versions of source code.
+
+GitHub:-
+----------
+->It is a service.
+->It is hosted on the web.
+->It is used to have a copy of the local repository code.
+
+General commands For Windows:-
+----------------------------------------
+->mkdir <dirName>
+->cd <dirName>
+->git init
+->notepad <fileName.txt>
+->git status
+->git add <filename.txt> || git add .
+->git commit		(esc :wq)
+->git remote add <Repository url>
+->git push
+->git config --global user.name " "
+->git config --global user.email " "
+->git pull
+	-It is used to fetch and merge changes from remote repository to the local repository.
+
+
+Git Installation steps in UBUNTU/LINUX:
+------------------------------------------------
+->sudo apt update
+->sudo apt install git
+->git --version
+->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
